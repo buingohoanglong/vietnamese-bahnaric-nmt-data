@@ -112,7 +112,7 @@ not_synonym = {
     'môn': ['món', 'khoa'],
     'món': ['môn'],
     'khoa': ['môn'],
-    'đi': ['phai', 'đạn', 'về'],
+    'đi': ['phai', 'đạn', 'về', 'dận'],
     'về': ['đi'],
     'bảo tồn': ['bảo tàng'],
     'bảo tàng': ['bảo tồn'],
@@ -144,7 +144,22 @@ not_synonym = {
     'chúng ta': ['chúng mình'],
     'thường trực': ['trực'],
     'thưa': ['báo cáo', 'trình'],
-    'tinh thần': ['ý thức']
+    'tinh thần': ['ý thức'],
+    'dừng': ['dứt'],
+    'ngày mai': ['mai sau', 'tương lai'],
+    'rõ': ['rành', 'tường'],
+    'thú': ['thích', 'thú vị'],
+    'bẫy': ['tròng'],
+    'bằng': ['kì', 'tày'],
+    'đống': ['gò'],
+    'chim': ['cu'],
+    'thua': ['kém'],
+    'bổ': ['ngã', 'bủa'],
+    'ít': ['vắng'],
+    'bố': ['cha nội'],
+    'bọn': ['tuồng'],
+    'đường': ['đàng', 'lối'],
+    'chơi': ['nhởi']
 }
 
 vi_words = json.load(open('./data_syn.json', mode='r'))

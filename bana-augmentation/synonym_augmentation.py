@@ -13,6 +13,8 @@ def format(text):
     text = re.sub(f" ;", ";", text)
     text = re.sub(f" %", "%", text)
     text = re.sub(f" :", ":", text)
+    text = re.sub(f" !", "!", text)
+    text = re.sub(f" \?", "?", text)
     text = re.sub(f"\( ", "(", text)
     text = re.sub(f" \)", ")", text)
     text = re.sub(f" / ", "/", text)
@@ -67,8 +69,8 @@ def sent_process(text, vi_words, k=10):
 
 def main():
     vi_words = json.load(open('data_syn_processed.json', mode='r'))
-    inputDir = '../data/VH-TT/processed'
-    outputDir = '../data/VH-TT/augment'
+    inputDir = '../data/Dữ liệu cũ (Đài phát thanh Vĩnh Thạnh)/VH-TT/processed'
+    outputDir = '../data/Dữ liệu cũ (Đài phát thanh Vĩnh Thạnh)/VH-TT/augment'
 
     invalid_words = ['Ủy ban quần chúng', 'Ủy ban dân chúng', 'mùa bầy', 'mùa bọn', 'mùa đám', 'mùa tụi', 'mùa tuồng',
         'mùa quân', 'mùa phường', 'chủ tọa Ủy ban nhân dân', 'chủ tọa Ủy ban Nhân dân', 'đào lộn hột', 
