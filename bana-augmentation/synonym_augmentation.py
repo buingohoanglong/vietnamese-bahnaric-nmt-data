@@ -2,31 +2,9 @@ from underthesea import ner
 import json
 from random import shuffle
 import pandas as pd
-import re
+from utils import format
 
-def format(text):
-    text = re.sub(f"  ", " ", text)
-    text = re.sub(f"_", " ", text)
-    text = re.sub(f" \.", ".", text)
-    text = re.sub(f"' ", "'", text)
-    text = re.sub(f" ,", ",", text)
-    text = re.sub(f" ;", ";", text)
-    text = re.sub(f" %", "%", text)
-    text = re.sub(f" :", ":", text)
-    text = re.sub(f" !", "!", text)
-    text = re.sub(f" \?", "?", text)
-    text = re.sub(f"\( ", "(", text)
-    text = re.sub(f" \)", ")", text)
-    text = re.sub(f" / ", "/", text)
-    text = re.sub(f"\" ", "\"", text)
-    text = re.sub(f" \"", "\"", text)
-    text = re.sub(f" g ", "g ", text)
-    text = re.sub(f" kg ", "kg ", text)
-    text = re.sub(f" m ", "m ", text)
-    text = re.sub(f" cm ", "cm ", text)
-    text = re.sub(f" m2 ", "m2 ", text)
-    text = re.sub(f" ha ", "ha ", text)
-    return text.strip()
+
 
 def sent_process(text, vi_words, k=10):
     text = format(text)
