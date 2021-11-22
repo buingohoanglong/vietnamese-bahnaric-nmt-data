@@ -1,0 +1,544 @@
+{
+    "làm": [
+        "đánh"
+    ],
+    "đất": [
+        "ghét"
+    ],
+    "ra": [
+        "vào"
+    ],
+    "vào": [
+        "ra"
+    ],
+    "chủ tịch": [
+        "chủ toạ"
+    ],
+    "vừng": [
+        "vầng"
+    ],
+    "tròn": [
+        "trọn.#"
+    ],
+    "giống": [
+        "chi",
+        "hệt"
+    ],
+    "nhẹ": [
+        "nặng"
+    ],
+    "nặng": [
+        "nhẹ"
+    ],
+    "lân": [
+        "lạm",
+        "lấn"
+    ],
+    "được": [
+        "thắng",
+        "nổi",
+        "đặng"
+    ],
+    "giai đoạn": [
+        "tuổi"
+    ],
+    "nước": [
+        "nác"
+    ],
+    "thứ": [
+        "ngữ"
+    ],
+    "đỏ": [
+        "hồng"
+    ],
+    "tốt": [
+        "đặng",
+        "được"
+    ],
+    "họ": [
+        "gia tộc"
+    ],
+    "tuần": [
+        "kì"
+    ],
+    "kì": [
+        "tuần"
+    ],
+    "tỉa": [
+        "trỉa"
+    ],
+    "lúc": [
+        "chốc",
+        "lát",
+        "buổi",
+        "chập"
+    ],
+    "hoa": [
+        "huê"
+    ],
+    "cắt": [
+        "ngắt",
+        "bốc",
+        "cân"
+    ],
+    "thước": [
+        "tất"
+    ],
+    "điều": [
+        "đào lộn hột"
+    ],
+    "cánh": [
+        "bè",
+        "phái",
+        "phe"
+    ],
+    "ươm": [
+        "ương"
+    ],
+    "sản xuất": [
+        "sinh sản"
+    ],
+    "vốn": [
+        "vốn dĩ",
+        "nguyên"
+    ],
+    "dài": [
+        "trường"
+    ],
+    "sạch": [
+        "ráo",
+        "tiệt",
+        "nhẵn"
+    ],
+    "xong": [
+        "đoản",
+        "đoạn"
+    ],
+    "đốt": [
+        "cắn"
+    ],
+    "dại": [
+        "ngộ"
+    ],
+    "trung bình": [
+        "làng nhàng",
+        "nhàng nhàng"
+    ],
+    "nóng": [
+        "lạnh"
+    ],
+    "lạnh": [
+        "rét"
+    ],
+    "thấy": [
+        "chộ"
+    ],
+    "chứa": [
+        "chứa chấp"
+    ],
+    "điều kiện": [
+        "hoàn cảnh"
+    ],
+    "non": [
+        "đuôi",
+        "mát"
+    ],
+    "thối": [
+        "thoái"
+    ],
+    "ta": [
+        "mỗ"
+    ],
+    "còn": [
+        "đang"
+    ],
+    "để": [
+        "đặng"
+    ],
+    "đảo": [
+        "cù lao"
+    ],
+    "này": [
+        "ni"
+    ],
+    "nó": [
+        "y",
+        "nghỉ"
+    ],
+    "khô": [
+        "khô khan"
+    ],
+    "đưa": [
+        "tiễn"
+    ],
+    "lót": [
+        "lát",
+        "tã"
+    ],
+    "chết": [
+        "tắt thở"
+    ],
+    "kích thước": [
+        "kích tấc"
+    ],
+    "nhiều": [
+        "ối",
+        "giàu"
+    ],
+    "ép": [
+        "nép",
+        "bứt",
+        "buộc",
+        "bắt"
+    ],
+    "sai": [
+        "sây"
+    ],
+    "đen": [
+        "xui",
+        "rủi",
+        "mun"
+    ],
+    "hạn": [
+        "vận hạn"
+    ],
+    "chủ yếu": [
+        "cốt tử"
+    ],
+    "tàn dư": [
+        "tàn tích"
+    ],
+    "biện pháp": [
+        "thủ pháp"
+    ],
+    "xì": [
+        "phì",
+        "xùy",
+        "hỉ"
+    ],
+    "tên": [
+        "thằng",
+        "gã"
+    ],
+    "chi phí": [
+        "phí tổn"
+    ],
+    "chi": [
+        "giống",
+        "gì"
+    ],
+    "thành phố": [
+        "tỉnh thành"
+    ],
+    "báo cáo": [
+        "thưa",
+        "bẩm"
+    ],
+    "dịch": [
+        "xê",
+        "xịch",
+        "nhích",
+        "xích"
+    ],
+    "đàn": [
+        "cầm",
+        "bọn",
+        "lũ"
+    ],
+    "thuộc": [
+        "thuộc lòng",
+        "thuộc làu"
+    ],
+    "ăn": [
+        "xực",
+        "ngốn",
+        "tọng",
+        "măm",
+        "hốc"
+    ],
+    "mức": [
+        "ngữ"
+    ],
+    "khu": [
+        "đít"
+    ],
+    "mực": [
+        "mực tàu"
+    ],
+    "nạn": [
+        "nàn",
+        "tệ"
+    ],
+    "lao động": [
+        "cần lao"
+    ],
+    "số": [
+        "số mệnh",
+        "số phận"
+    ],
+    "cụm": [
+        "khóm"
+    ],
+    "ven": [
+        "vệ"
+    ],
+    "hải sản": [
+        "thủy sản"
+    ],
+    "thủy sản": [
+        "hải sản"
+    ],
+    "đóng": [
+        "tắt"
+    ],
+    "xã hội": [
+        "tầng lớp"
+    ],
+    "tầng lớp": [
+        "xã hội",
+        "từng lớp"
+    ],
+    "hợp đồng": [
+        "giao kèo"
+    ],
+    "thực tế": [
+        "thực tại"
+    ],
+    "bơm": [
+        "thổi phồng"
+    ],
+    "liên quan": [
+        "liên can",
+        "can hệ"
+    ],
+    "qua": [
+        "trải qua"
+    ],
+    "biển": [
+        "bể"
+    ],
+    "bể": [
+        "biển"
+    ],
+    "tiền": [
+        "đồng cân"
+    ],
+    "khai thác": [
+        "khai khẩn"
+    ],
+    "chiến sĩ": [
+        "đội viên"
+    ],
+    "đầy": [
+        "chật"
+    ],
+    "giao thông": [
+        "liên lạc"
+    ],
+    "liên lạc": [
+        "giao thông"
+    ],
+    "tập trung": [
+        "tập kết"
+    ],
+    "thực hiện": [
+        "thực hành"
+    ],
+    "đẩy": [
+        "ẩn",
+        "ẩy",
+        "đẩn"
+    ],
+    "kiểm tra": [
+        "soát"
+    ],
+    "phát sinh": [
+        "nảy"
+    ],
+    "học sinh": [
+        "học trò"
+    ],
+    "tiết kiệm": [
+        "kiệm ước",
+        "tùng tiệm"
+    ],
+    "kể": [
+        "thuật"
+    ],
+    "môn": [
+        "món",
+        "khoa"
+    ],
+    "món": [
+        "môn"
+    ],
+    "khoa": [
+        "môn"
+    ],
+    "đi": [
+        "phai",
+        "đạn",
+        "về",
+        "dận"
+    ],
+    "về": [
+        "đi"
+    ],
+    "bảo tồn": [
+        "bảo tàng"
+    ],
+    "bảo tàng": [
+        "bảo tồn"
+    ],
+    "độ": [
+        "quãng"
+    ],
+    "tuổi": [
+        "giai đoạn"
+    ],
+    "mua": [
+        "chuốc"
+    ],
+    "tất cả": [
+        "tất",
+        "tất tật",
+        "tất thảy"
+    ],
+    "lễ": [
+        "lỡi"
+    ],
+    "gì": [
+        "chi"
+    ],
+    "gọi": [
+        "đòi"
+    ],
+    "khám": [
+        "khám xét"
+    ],
+    "chiều": [
+        "bề"
+    ],
+    "bề": [
+        "chiều"
+    ],
+    "trở thành": [
+        "trở nên"
+    ],
+    "trở nên": [
+        "trở thành"
+    ],
+    "tích cực": [
+        "hăng hái"
+    ],
+    "sinh": [
+        "đâm",
+        "đổ",
+        "hóa"
+    ],
+    "thường xuyên": [
+        "luôn luôn"
+    ],
+    "lớp": [
+        "lóng",
+        "dạo",
+        "cữ"
+    ],
+    "họp": [
+        "hội"
+    ],
+    "hội": [
+        "họp"
+    ],
+    "đỉnh": [
+        "trốc",
+        "mỏm"
+    ],
+    "vẽ": [
+        "vẽ vời",
+        "bày vẽ",
+        "vẽ chuyện"
+    ],
+    "đảng": [
+        "phái",
+        "bè",
+        "phe"
+    ],
+    "mục tiêu": [
+        "đích"
+    ],
+    "bò": [
+        "bơ"
+    ],
+    "bơ": [
+        "bò"
+    ],
+    "mặt": [
+        "phương diện",
+        "bình diện"
+    ],
+    "chúng ta": [
+        "chúng mình"
+    ],
+    "thường trực": [
+        "trực"
+    ],
+    "thưa": [
+        "báo cáo",
+        "trình"
+    ],
+    "tinh thần": [
+        "ý thức"
+    ],
+    "dừng": [
+        "dứt"
+    ],
+    "ngày mai": [
+        "mai sau",
+        "tương lai"
+    ],
+    "rõ": [
+        "rành",
+        "tường"
+    ],
+    "thú": [
+        "thích",
+        "thú vị"
+    ],
+    "bẫy": [
+        "tròng"
+    ],
+    "bằng": [
+        "kì",
+        "tày"
+    ],
+    "đống": [
+        "gò"
+    ],
+    "chim": [
+        "cu"
+    ],
+    "thua": [
+        "kém"
+    ],
+    "bổ": [
+        "ngã",
+        "bủa"
+    ],
+    "ít": [
+        "vắng"
+    ],
+    "bố": [
+        "cha nội"
+    ],
+    "bọn": [
+        "tuồng"
+    ],
+    "đường": [
+        "đàng",
+        "lối"
+    ],
+    "chơi": [
+        "nhởi"
+    ]
+}
