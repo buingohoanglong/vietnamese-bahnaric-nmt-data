@@ -47,8 +47,8 @@ def sent_process(text, vi_words, k=10):
 
 def main():
     vi_words = json.load(open('data_syn_processed.json', mode='r'))
-    inputDir = '../data/Dữ liệu cũ (Đài phát thanh Vĩnh Thạnh)/VH-TT/processed'
-    outputDir = '../data/Dữ liệu cũ (Đài phát thanh Vĩnh Thạnh)/VH-TT/augment'
+    inputDir = '../data'
+    outputDir = '../data'
 
     invalid_words = ['Ủy ban quần chúng', 'Ủy ban dân chúng', 'mùa bầy', 'mùa bọn', 'mùa đám', 'mùa tụi', 'mùa tuồng',
         'mùa quân', 'mùa phường', 'chủ tọa Ủy ban nhân dân', 'chủ tọa Ủy ban Nhân dân', 'đào lộn hột', 
@@ -97,8 +97,8 @@ def main():
         'tuyến lối', 'xuể lên', 'biếu biết', 'tặng biết'
     ]
 
-    with open(f'{inputDir}/VH-TT.vi', mode='r', encoding='utf-8') as file_vi:
-        with open(f'{inputDir}/VH-TT.ba', mode='r', encoding='utf-8') as file_ba:
+    with open(f'{inputDir}/train.vi', mode='r', encoding='utf-8') as file_vi:
+        with open(f'{inputDir}/train.ba', mode='r', encoding='utf-8') as file_ba:
             sentences_vi = file_vi.readlines()
             sentences_ba = file_ba.readlines()
             num_rows = len(sentences_vi)
@@ -117,7 +117,7 @@ def main():
                         data.append([s, ba])
 
     df = pd.DataFrame(data, columns=['Viet', 'Bahnar']).drop_duplicates()
-    df.to_csv(f'{outputDir}/VH-TT.csv', sep=',', encoding='utf-8', index=False)
+    df.to_csv(f'{outputDir}/train-synonymaugment.csv', sep=',', encoding='utf-8', index=False)
 
 
 if __name__ == '__main__':
