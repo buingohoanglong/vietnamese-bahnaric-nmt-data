@@ -5,11 +5,11 @@ def capitalize(text):
     return text[0].capitalize() + text[1:]
 
 def main():
-    vi_sentences = open('../data/train-synaug-baccaug.vi', mode='r', encoding='utf-8').readlines()
-    ba_sentences = open('../data/train-synaug-baccaug.ba', mode='r', encoding='utf-8').readlines()
+    vi_sentences = open('../data/train.vi', mode='r', encoding='utf-8').readlines()
+    ba_sentences = open('../data/train.ba', mode='r', encoding='utf-8').readlines()
 
-    with open('../data/train-synaug-baccaug-accent.vi', mode='w+', encoding='utf-8') as file_vi:
-        with open('../data/train-synaug-baccaug-accent.ba', mode='w+', encoding='utf-8') as file_ba:
+    with open('../data/train-accent.vi', mode='w+', encoding='utf-8') as file_vi:
+        with open('../data/train-accent.ba', mode='w+', encoding='utf-8') as file_ba:
             vi_new = []
             ba_new = []
             for vi, ba in zip(vi_sentences, ba_sentences):
